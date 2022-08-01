@@ -1,3 +1,5 @@
+http://quanzhang.top/about/index.html
+http://quanzhang.top/post/%E5%B7%B4%E9%BB%8E%E4%B8%80%E6%97%A5%E6%B8%B8.html
 http://quanzhang.top/post/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html
 http://quanzhang.top/post/%E5%88%9D%E5%88%B0%E5%B7%B4%E9%BB%8E.html
 http://quanzhang.top/post/%E7%BC%98%E8%B5%B7.html
@@ -16,7 +18,6 @@ http://quanzhang.top/post/hello-world.html
 http://quanzhang.top/post/pyecharts%E6%9F%B1%E7%8A%B6%E5%9B%BE-%E8%BF%9B%E9%98%B6.html
 http://quanzhang.top/post/BI%E5%95%86%E4%B8%9A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA.html
 http://quanzhang.top/yourdiy/index.html
-http://quanzhang.top/about/index.html
 http://quanzhang.top/message-board/index.html
 http://quanzhang.top/
 http://quanzhang.top/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/

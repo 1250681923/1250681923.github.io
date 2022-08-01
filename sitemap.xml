@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://quanzhang.top/about/index.html</loc>
+    
+    <lastmod>2022-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://quanzhang.top/post/%E5%B7%B4%E9%BB%8E%E4%B8%80%E6%97%A5%E6%B8%B8.html</loc>
+    
+    <lastmod>2022-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://quanzhang.top/post/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</loc>
     
     <lastmod>2022-08-01</lastmod>
@@ -156,15 +174,6 @@
   
   <url>
     <loc>http://quanzhang.top/yourdiy/index.html</loc>
-    
-    <lastmod>2022-03-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://quanzhang.top/about/index.html</loc>
     
     <lastmod>2022-03-17</lastmod>
     
